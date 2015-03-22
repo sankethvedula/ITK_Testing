@@ -1,0 +1,2 @@
+/usr/bin/ar cr libItkVtkGlue.a  CMakeFiles/ItkVtkGlue.dir/QuickView.cxx.o
+/usr/bin/ranlib libItkVtkGlue.a
