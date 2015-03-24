@@ -2,4 +2,4 @@
 
 To run the executable VesselSegmentation file 
 
-$> ./VesselSegmentation <InputImage> <OutputImage> [Sigma] [Alpha1] [Alpha2]
+$> ./VesselSegmentation (InputImage) (OutputImage) [Sigma] [Alpha1] [Alpha2]
